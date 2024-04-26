@@ -16,6 +16,9 @@ This API is part of professor Rodrigo Manguinho's (Mango) training at Udemy.
 The objective of the training is to show how to create an API with a well-defined and decoupled architecture, using TDD (test-oriented programming) as a working methodology, Clean Architecture to distribute responsibilities in layers, always following the principles of SOLID and, whenever possible, applying Design Patterns to solve some common problems.
 <br /><br />
 
+![image](https://github.com/bruno-silverio/node-clean-api/assets/27282770/e710e97b-7b02-4136-ada7-ab278eb4c4a2)
+
+
 ## [**API documentation**](http://fordevs.herokuapp.com/api-docs)
 
 1. [Cadastro](./requirements/signup.md)
